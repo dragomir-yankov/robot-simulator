@@ -13,5 +13,5 @@ public class RobotsConfiguration {
 	public RobotsService robotsService() {
 		return new RobotsServiceImpl();
 	}
-
+	
 }
